@@ -47,7 +47,19 @@ body {
     outline: none;
     cursor: pointer;
   }
- 
+
+  .buttons__start {
+    background-color: lightgreen;
+  }
+  .buttons__stop {
+    background-color: tomato;
+  }
+  .buttons__wait {
+    background-color: lightyellow;
+  }
+  .buttons__reset {
+    background-color: grey;
+  }
 .none{
   display: none;
 }
